@@ -113,7 +113,7 @@ console.log(x, y);
 
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(ageJonas, ageSarah, averageAge);
-*/
+
 
 ////////////////////////////////////
 // Coding Challenge #1
@@ -136,7 +136,7 @@ GOOD LUCK 😀
 // const massJohn = 92;
 // const heightJohn = 1.95;
 
-/*
+
 const massMark = 95;
 const heightMark = 1.88;
 const massJohn = 85;
@@ -171,7 +171,7 @@ console.log(`String
 multiple
 lines`);
 
-
+/*
 ////////////////////////////////////
 // Taking Decisions: if / else Statements
 const age = 15;
